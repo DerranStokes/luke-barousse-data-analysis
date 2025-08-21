@@ -7,8 +7,9 @@ Practice files and solutions from Luke Barousse's data analysis course.
 - **Module 1**: Pivot Tables, Power Automate, Windows Familiarisation
 - **Module 2**: Visualizations and Advanced Excel
 - **Module 3**: Data Merging and Cleaning
-- **Module 4**: [Add description]
-- **Module 5**: [Add description]
+- **Module 4**: SQL
+- **Module 5**: Python
+  
 
 ## 🛠 Tools Used
 - Excel
