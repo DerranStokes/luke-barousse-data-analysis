@@ -3,6 +3,14 @@
 
 Practice files and solutions from Luke Barousse's data analysis course.
 
+## Creating Branches in GitHub Desktop
+
+The screenshot below shows how to create branches for organizing modules:
+
+![create-branch-guide.png]
+
+
+
 ## 📁 Modules
 - **Module 1**: Pivot Tables, Power Automate, Windows Familiarisation
 - **Module 2**: Visualizations and Advanced Excel
